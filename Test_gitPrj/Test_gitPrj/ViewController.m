@@ -18,6 +18,8 @@
     [super viewDidLoad];
     self.title = @"github 代码修改";
     self.title = @"我是曹旭同桌";
+    self.title = @"我是曹旭同桌";
+     self.title = @"6不6";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
