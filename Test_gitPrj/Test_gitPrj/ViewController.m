@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.title = @"github 代码修改";
+    self.title = @"我是曹旭同桌";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
